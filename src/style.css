@@ -91,11 +91,8 @@ li ::first-letter {
   opacity: 0.6;
 }
 
-.weather-forecast-temperature {
+.weather-forecast-temperatures {
   font-size: 13px;
-}
-
-.weather-forecast-temperature-max {
 }
 
 .weather-forecast-temperature-min {
